@@ -436,21 +436,7 @@
       "discount": 0,
       "image": "play13.jpg",
       "subCategory": "Consolas",
-<<<<<<< HEAD
-      "category": "newer"
-   },
-   {
-      "id": 41,
-      "name": "dede",
-      "description": "ddddddqedwerwerwe",
-      "price": 44444,
-      "discount": 33,
-      "image": "",
-      "subCategory": "Juegos",
-      "category": "newer"
-=======
       "category": "newer",
       "images": []
->>>>>>> 06af3aa8f5355563eabaa11f2544559af806ac07
    }
 ]
