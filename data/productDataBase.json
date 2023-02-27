@@ -2,13 +2,19 @@
    {
       "id": 1,
       "name": "FIFA 23",
+      "description": "Disfruta de la tecnología HyperMotion2 de nueva generación, el fútbol de clubes femenino, la FIFA World Cup™ masculina y femenina, función de juego cruzado y mucho más.",
       "price": 15000,
       "discount": 20,
-      "category": "in-sale",
       "subCategory": "Juegos",
+<<<<<<< HEAD
       "description": "Disfruta de la tecnología HyperMotion2 de nueva generación, el fútbol de clubes femenino, la FIFA World Cup™ masculina y femenina, función de juego cruzado y mucho más.",
       "image": "item1.jpg",
       "dp": "fifa23.jpg"
+=======
+      "category": "in-sale",
+      "image": "item1.jpg",
+      "images": []
+>>>>>>> 06af3aa8f5355563eabaa11f2544559af806ac07
    },
    {
       "id": 2,
@@ -18,7 +24,8 @@
       "subCategory": "Juegos",
       "category": "in-sale",
       "description": "Descubre una experiencia de juego más intensa e inmersiva con el innovador control de PS5™",
-      "image": "item2.jpg"
+      "image": "item2.jpg",
+      "images": []
    },
    {
       "id": 3,
@@ -28,17 +35,19 @@
       "discount": 25,
       "image": "item3.jpg",
       "subCategory": "products-edition",
-      "category": "in-sale"
+      "category": "in-sale",
+      "images": []
    },
    {
       "id": 4,
       "name": "The King Of Fighters Xv",
+      "description": "Con este juego de The King of Fighters vas a disfrutar de horas de diversión y de nuevos desafíos que te permitirán mejorar como gamer.",
       "price": 15000,
       "discount": 25,
       "subCategory": "Juegos",
       "category": "in-sale",
-      "description": "Con este juego de The King of Fighters vas a disfrutar de horas de diversión y de nuevos desafíos que te permitirán mejorar como gamer.",
-      "image": "item4.jpg"
+      "image": "item4.jpg",
+      "images": []
    },
    {
       "id": 5,
@@ -48,7 +57,8 @@
       "discount": 0,
       "image": "item5.jpg",
       "subCategory": "Juegos",
-      "category": "newer"
+      "category": "newer",
+      "images": []
    },
    {
       "id": 6,
@@ -58,7 +68,8 @@
       "discount": 5,
       "image": "item6.jpg",
       "subCategory": "Juegos",
-      "category": "in-sale"
+      "category": "in-sale",
+      "images": []
    },
    {
       "id": 7,
@@ -68,7 +79,8 @@
       "discount": 0,
       "image": "item7.jpg",
       "subCategory": "Juegos",
-      "category": "newer"
+      "category": "newer",
+      "images": []
    },
    {
       "id": 8,
@@ -78,7 +90,8 @@
       "discount": 0,
       "image": "item8.jpg",
       "subCategory": "Juegos",
-      "category": "newer"
+      "category": "newer",
+      "images": []
    },
    {
       "id": 9,
@@ -88,7 +101,8 @@
       "discount": 0,
       "image": "item18.jpg",
       "subCategory": "Juegos",
-      "category": "newer"
+      "category": "newer",
+      "images": []
    },
    {
       "id": 10,
@@ -98,7 +112,8 @@
       "discount": 0,
       "image": "item10.jpg",
       "subCategory": "Juegos",
-      "category": "newer"
+      "category": "newer",
+      "images": []
    },
    {
       "id": 11,
@@ -108,7 +123,8 @@
       "discount": 5,
       "image": "item17.jpg",
       "category": "in-sale",
-      "subCategory": "Juegos"
+      "subCategory": "Juegos",
+      "images": []
    },
    {
       "id": 12,
@@ -118,7 +134,8 @@
       "discount": 0,
       "image": "item11.jpg",
       "subCategory": "Juegos",
-      "category": "newer"
+      "category": "newer",
+      "images": []
    },
    {
       "id": 13,
@@ -128,7 +145,8 @@
       "discount": 5,
       "image": "item12.jpg",
       "subCategory": "Juegos",
-      "category": "in-sale"
+      "category": "in-sale",
+      "images": []
    },
    {
       "id": 14,
@@ -138,7 +156,8 @@
       "discount": 5,
       "image": "note1.jpg",
       "subCategory": "Notebooks",
-      "category": "in-sale"
+      "category": "in-sale",
+      "images": []
    },
    {
       "id": 15,
@@ -148,7 +167,8 @@
       "discount": 5,
       "image": "note2.jpg",
       "subCategory": "Notebooks",
-      "category": "in-sale"
+      "category": "in-sale",
+      "images": []
    },
    {
       "id": 16,
@@ -158,7 +178,8 @@
       "discount": 10,
       "image": "note3.jpg",
       "subCategory": "Notebooks",
-      "category": "in-sale"
+      "category": "in-sale",
+      "images": []
    },
    {
       "id": 17,
@@ -168,7 +189,8 @@
       "discount": 7,
       "image": "note4.jpg",
       "subCategory": "Notebooks",
-      "category": "in-sale"
+      "category": "in-sale",
+      "images": []
    },
    {
       "id": 18,
@@ -178,7 +200,8 @@
       "discount": 0,
       "image": "note5.jpg",
       "subCategory": "Notebooks",
-      "category": "newer"
+      "category": "newer",
+      "images": []
    },
    {
       "id": 19,
@@ -188,7 +211,8 @@
       "discount": 10,
       "image": "nuevo10.jpg",
       "subCategory": "Perifericos",
-      "category": "in-sale"
+      "category": "in-sale",
+      "images": []
    },
    {
       "id": 20,
@@ -198,7 +222,8 @@
       "discount": 0,
       "image": "nuevo2.jpg",
       "subCategory": "Consolas",
-      "category": "newer"
+      "category": "newer",
+      "images": []
    },
    {
       "id": 21,
@@ -208,7 +233,8 @@
       "discount": 0,
       "image": "card10usa.jpg",
       "subCategory": "Gifts Cards",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 22,
@@ -218,7 +244,8 @@
       "discount": 0,
       "image": "card100usa.jpg",
       "subCategory": "Gifts Cards",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 23,
@@ -228,7 +255,8 @@
       "discount": 0,
       "image": "card50arg.jpg",
       "subCategory": "Gifts Cards",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 24,
@@ -238,7 +266,8 @@
       "discount": 0,
       "image": "play6.png",
       "subCategory": "Consolas",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 25,
@@ -248,7 +277,8 @@
       "discount": 0,
       "image": "note11.jpg",
       "subCategory": "Notebooks",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 26,
@@ -258,7 +288,8 @@
       "discount": 0,
       "image": "note12.jpg",
       "subCategory": "Notebooks",
-      "category": "newer"
+      "category": "newer",
+      "images": []
    },
    {
       "id": 27,
@@ -268,7 +299,8 @@
       "discount": 0,
       "image": "play2.jpg",
       "subCategory": "Consolas",
-      "category": "newer"
+      "category": "newer",
+      "images": []
    },
    {
       "id": 28,
@@ -278,7 +310,8 @@
       "discount": 0,
       "image": "play4.jpg",
       "subCategory": "Consolas",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 29,
@@ -288,7 +321,8 @@
       "discount": 0,
       "image": "nuevo8.jpg",
       "subCategory": "Consolas",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 30,
@@ -298,7 +332,8 @@
       "discount": 0,
       "image": "oferta17.jpg",
       "subCategory": "Consolas",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 31,
@@ -308,7 +343,8 @@
       "discount": 0,
       "image": "card10arg.jpg",
       "subCategory": "Gifts Cards",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 32,
@@ -318,7 +354,8 @@
       "discount": 0,
       "image": "card100arg.jpg",
       "subCategory": "Gifts Cards",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 33,
@@ -328,7 +365,8 @@
       "discount": 0,
       "image": "card75arg.jpg",
       "subCategory": "Gifts Cards",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 34,
@@ -338,7 +376,8 @@
       "discount": 0,
       "image": "card20arg.jpg",
       "subCategory": "Gifts Cards",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 35,
@@ -348,7 +387,8 @@
       "discount": 0,
       "image": "play8.jpg",
       "subCategory": "Consolas",
-      "category": "newer"
+      "category": "newer",
+      "images": []
    },
    {
       "id": 36,
@@ -358,7 +398,8 @@
       "discount": 0,
       "image": "play9.jpg",
       "subCategory": "Consolas",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 37,
@@ -368,7 +409,8 @@
       "discount": 0,
       "image": "play10.jpg",
       "subCategory": "Consolas",
-      "category": "null"
+      "category": "null",
+      "images": []
    },
    {
       "id": 38,
@@ -378,7 +420,8 @@
       "discount": 0,
       "image": "play11.jpg",
       "subCategory": "Consolas",
-      "category": "newer"
+      "category": "newer",
+      "images": []
    },
    {
       "id": 39,
@@ -388,7 +431,8 @@
       "discount": 15,
       "image": "play12.jpg",
       "subCategory": "Consolas",
-      "category": "in-sale"
+      "category": "in-sale",
+      "images": []
    },
    {
       "id": 40,
@@ -398,6 +442,7 @@
       "discount": 0,
       "image": "play13.jpg",
       "subCategory": "Consolas",
+<<<<<<< HEAD
       "category": "newer"
    },
    {
@@ -409,5 +454,9 @@
       "image": "",
       "subCategory": "Juegos",
       "category": "newer"
+=======
+      "category": "newer",
+      "images": []
+>>>>>>> 06af3aa8f5355563eabaa11f2544559af806ac07
    }
 ]
