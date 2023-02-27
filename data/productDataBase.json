@@ -6,15 +6,9 @@
       "price": 15000,
       "discount": 20,
       "subCategory": "Juegos",
-<<<<<<< HEAD
-      "description": "Disfruta de la tecnología HyperMotion2 de nueva generación, el fútbol de clubes femenino, la FIFA World Cup™ masculina y femenina, función de juego cruzado y mucho más.",
-      "image": "item1.jpg",
-      "dp": "fifa23.jpg"
-=======
       "category": "in-sale",
       "image": "item1.jpg",
       "images": []
->>>>>>> 06af3aa8f5355563eabaa11f2544559af806ac07
    },
    {
       "id": 2,
